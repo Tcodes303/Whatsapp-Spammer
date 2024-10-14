@@ -1,2 +1,2 @@
 # Whatsapp-Spammer
-For Whatsapp WEb
+For Whatsapp Web
